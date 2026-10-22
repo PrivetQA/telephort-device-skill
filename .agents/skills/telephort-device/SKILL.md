@@ -5,6 +5,7 @@ description: >-
   including internet checks, GPU slots, keyboxes, and optional Play Store
   update or Play Store sign-in. Use when the user asks to create a device,
   pick a proxy or VPN, update Play Store apps, or sign into Play Store.
+compatibility: Any agent that can call Telephort MCP tools. The MCP server must already be connected. Not tied to one product.
 ---
 
 # Telephort device
